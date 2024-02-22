@@ -14,7 +14,7 @@ var rowAndMaximumOnes = function (mat) {
       max = ones;
     }
   }
-  return [row, ones];
+  return [row, max];
 };
 
 console.log(
