@@ -5,7 +5,7 @@
     "strict": true,
     "esModuleInterop": true,
     "sourceMap": true,
-    "outDir": "dist",
+    "outDir": "js/dist",
     "forceConsistentCasingInFileNames": true
   }
 }
