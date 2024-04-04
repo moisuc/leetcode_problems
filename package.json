@@ -1,8 +1,8 @@
 {
-  "name": "leetcode_problems",
+  "name": "problems",
   "version": "1.0.0",
   "description": "",
-  "main": "addBinary.js",
+  
   "scripts": {
     "test": "jest"
   },
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "@types/node": "^20.12.4",
+    "jest": "^29.7.0",
+    "tslib": "^2.6.2"
   }
 }
